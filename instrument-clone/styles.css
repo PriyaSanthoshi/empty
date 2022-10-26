@@ -1,0 +1,18 @@
+body {
+    font-family: "Ubuntu", sans-serif;
+    background-color: black;
+}
+
+#main-section {
+    height: auto;
+}
+
+/* #video-row {
+    height: auto;
+}
+*/
+
+#brand-text-row h1 {
+    font-size: 4vw;
+    text-align: center;
+}
